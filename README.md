@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AlisonAnJr
-- 👀 I’m interested in programing, gaming, watching movies, series and animes, and other things that i can't remmenber rn
-- 🌱 I’m currently learning basics front end web develop(html, css, js)
-- 📫 How to reach me on twitter im @AlisonAnJR
+## Olá
+- 👀 Sou estudante de engenharia de computação 
+- 🤔 por enquanto é só
 
 <!---
 AlisonAnJr/AlisonAnJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
